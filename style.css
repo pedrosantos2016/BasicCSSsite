@@ -1,0 +1,25 @@
+div {
+    width: 350px;
+}
+
+li.one {
+    color: yellowgreen;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.one {
+    background-color: blue;
+    color: white;
+}
+
+.three {
+    border: 10px solid black;
+}
+
+
+#two {
+    font-family: 'Shadows Into Light', cursive;
+}
+
